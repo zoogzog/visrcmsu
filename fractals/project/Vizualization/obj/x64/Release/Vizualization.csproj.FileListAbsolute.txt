@@ -1,0 +1,12 @@
+D:\ANDREY\Moscow-MSU-Science-Visualisation\Fractals\Vizualization\bin\x64\Release\Vizualization.exe
+D:\ANDREY\Moscow-MSU-Science-Visualisation\Fractals\Vizualization\bin\x64\Release\Vizualization.pdb
+D:\ANDREY\Moscow-MSU-Science-Visualisation\Fractals\Vizualization\bin\x64\Release\Tao.Cg.dll
+D:\ANDREY\Moscow-MSU-Science-Visualisation\Fractals\Vizualization\bin\x64\Release\Tao.FreeGlut.dll
+D:\ANDREY\Moscow-MSU-Science-Visualisation\Fractals\Vizualization\bin\x64\Release\Tao.OpenGl.dll
+D:\ANDREY\Moscow-MSU-Science-Visualisation\Fractals\Vizualization\bin\x64\Release\Tao.Platform.Windows.dll
+D:\ANDREY\Moscow-MSU-Science-Visualisation\Fractals\Vizualization\obj\x64\Release\Vizualization.csprojResolveAssemblyReference.cache
+D:\ANDREY\Moscow-MSU-Science-Visualisation\Fractals\Vizualization\obj\x64\Release\Vizualization.Form1.resources
+D:\ANDREY\Moscow-MSU-Science-Visualisation\Fractals\Vizualization\obj\x64\Release\Vizualization.Properties.Resources.resources
+D:\ANDREY\Moscow-MSU-Science-Visualisation\Fractals\Vizualization\obj\x64\Release\Vizualization.csproj.GenerateResource.Cache
+D:\ANDREY\Moscow-MSU-Science-Visualisation\Fractals\Vizualization\obj\x64\Release\Vizualization.exe
+D:\ANDREY\Moscow-MSU-Science-Visualisation\Fractals\Vizualization\obj\x64\Release\Vizualization.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Vizualization">
+</Property><Property Name="Solution File" Value="D:\Projects\Vizualization-2\Vizualization ver 1.01\Vizualization.sln">
+</Property><Property Name="User Options File" Value="D:\Projects\Vizualization-2\Vizualization ver 1.01\Vizualization.suo">
+</Property><Property Name="Date" Value="15 декабря 2011 г.">
+</Property><Property Name="Time" Value="0:34">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Vizualization.sln" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Vizualization.suo" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization.suo">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\Vizualization.csproj" Description="Project file successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\Vizualization.csproj">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\Vizualization.csproj.user" Description="Project user file successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\Vizualization.csproj.user">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\mcubes.cs" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\mcubes.cs">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\julia.cs" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\julia.cs">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\imp.cs" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\imp.cs">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\isf.cs" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\isf.cs">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\fractals.cs" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\fractals.cs">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\Form1.cs" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\Form1.Designer.cs" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\main.cs" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\main.cs">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\surface.cs" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\surface.cs">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\Properties\Settings.settings" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\resources\tao_logo.png" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\resources\tao_logo.png">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\resources\julia.png" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\resources\julia.png">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\Form1.resx" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\Properties\Resources.resx" Description="File successfully backed up as D:\Projects\Vizualization-2\Vizualization ver 1.01\Backup\Vizualization\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\Vizualization.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Vizualization" Source="Vizualization\Vizualization.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Vizualization.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Vizualization.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Vizualization" Source="Vizualization\Vizualization.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

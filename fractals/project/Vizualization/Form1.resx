@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox20.Text" xml:space="preserve">
+    <value>Vector Fields Vizualization
+
+Controls:
+    'w' - zoom in. Similar to 'Zoom+' button.
+    's'  - zoom out. Similar to 'Zoom-' button.
+    'a'  - rotate scene contrcolckwise by y. 
+           Similar to  'Rotate contrclockwise Y'.
+    'd'  - rotate scene clockwise. Similar to
+            Similar to 'Rotate clockwise Y' .
+    'y'  - rotate scene clockwise by x. 
+            Similar to 'Rotate clockwise X' .
+    'h'  - rotate scene contrclockwise by x.
+            Similar to  'Rotate contrclockwise X'.
+    '+'  - raise constant by 0.1.
+            Similar to 'Raise constant'.
+    '-'  -  drop constant by 0.1
+            Similar to 'Drop constant'.
+
+Buttons 'Up' and 'Down' moves camera. Step=0.1.
+Radio buttons 'Light On' and 'Light OF' turns on
+and turns of the light in scene.</value>
+  </data>
+  <data name="textBox12.Text" xml:space="preserve">
+    <value>This program is a task for Vizualization in Scientific Research Course.
+The Tao framework opnen source dll library was used in this
+project. 
+
+Made by: Grushnikov Andrey
+Date: 26.10.2009
+Version: 2.00
+
+Programming language: C#
+
+External libraries: 
+   - Tao.Cg.dll                                 ver. 1.4.1.1
+   - Tao.FreeGlut.dll                        ver. 2.4.0.1
+   - Tao.OpenGL.dll                        ver. 2.1.0.4
+   - Tao.Platform.Windows.dll         ver. 1.0.0.4</value>
+  </data>
+  <data name="textBox13.Text" xml:space="preserve">
+    <value>Image Processing.
+  
+Either *.bmp or *.jpg images can be loaded.
+Images are converted to grayscale image, using formula:
+        0.3*Red+0.6*Green+0.1*Blue
+
+Blur Matrix:
+                            1 1 1
+         H= (1/10) * 1 2 1
+                            1 1 1
+Border Matrix:
+                  1  2  1
+         H1=  0  0  0
+                 -1 -2 -1
+
+                   -1  0  1
+          H2=  -2  0  1
+                   -1  0  1</value>
+  </data>
+  <data name="textBox11.Text" xml:space="preserve">
+    <value>3) Julia and Mandelbrot Sets
+
+Functions: z^n+c, n=2,3,4;  z^n+cz, n=3; sin(z)+c, e^z+c.
+
+Colour Schemes.
+
+*Standart
+  Green color scheme with blue extr. fields.
+
+*Cosinus
+   Yellow color scheme, paining with cos(x)
+   function. Red extr. fields.
+
+*Original
+  Red-Orange-Yellow color scheme with
+  red extr. fields.
+
+Control Panel. (additional info)
+
+*ZoomIn '+' and ZoomOut '-' buttons.  Scale is 0.7
+
+*Detalization: [626, 1252]</value>
+  </data>
+  <data name="textBox7.Text" xml:space="preserve">
+    <value>1) Fractals:
+
+*Harter-Heighway dragon
+       max recursion depth: 10
+*Minkovsky Square
+       max recursion depth: 7
+*Square with holes
+      max recursion depth: 7
+*Serpinski curpet
+      max recursion depth: 7
+*Koch Curve
+      max recursion depth: 7
+
+2) Constructing fractals, using ISF
+
+*Fern
+      0.00  0.00  0.00 0.16 0.00 0.00 0.01
+      0.85  0.04 -0.04 0.85 0.00 1.60 0.85
+      0.20 -0.26  0.23 0.22 0.00 1.60 0.07
+     -0.15  0.28  0.26 0.24 0.00 0.44 0.07
+
+*Fern with Wind (animated)
+      0.00  0.00  0.00 0.16 0.00 0.00 0.01
+      0.85     A     -A   0.85 0.00 1.60 0.85
+      0.20 -0.26  0.23 0.22 0.00 1.60 0.07
+     -0.15  0.28  0.26 0.24 0.00 0.44 0.07
+
+*Cobweb
+    -0.81 -0.38  0.38 -0.81 0.0 0.00 0.83
+    -0.30  0.25 -0.25 -0.30 1.3 0.25 0.17
+
+*Dragon
+    0.824 0.28 -0.21  0.86 -1.88 -0.11 0.78
+    0.088 0.52 -0.46 -0.37  0.78 8.09 0.21
+
+*Star
+    0.6    0        0        0.21     0       0     0.3
+   -0.55 0.75  -0.75 -0.55  1.55  0.75   0.7
+
+*Spiral (animated)
+   0.2 -0.3    0.3  0.2  0.0  0.0  0.3
+   0.5  0.7   -0.7  0.5  0.5  0.7  0.7</value>
+  </data>
+  <metadata name="openFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>147, 17</value>
+  </metadata>
+  <metadata name="openFileDialog2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>230, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>81</value>
+  </metadata>
+</root>
