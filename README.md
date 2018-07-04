@@ -8,5 +8,6 @@ C# application for generating various fractals, blurring an image, visualizing s
 <th><img src="https://github.com/zoogzog/visrcmsu/blob/master/fractals/output/fractal001.png" width="100" height="90"></th>
 <th><img src="https://github.com/zoogzog/visrcmsu/blob/master/fractals/output/fractal002.png" width="100" height="90"></th>
 <th><img src="https://github.com/zoogzog/visrcmsu/blob/master/fractals/output/fractal003.png" width="100" height="90"></th>
+<th><img src="https://github.com/zoogzog/visrcmsu/blob/master/fractals/output/sfield001.png" width="100" height="90"></th>
 </tr>
 </table>
